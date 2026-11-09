@@ -1,0 +1,2 @@
+# MSTFAXWSF uses only the Python standard library (Python 3.8+).
+# No pip packages are required.
